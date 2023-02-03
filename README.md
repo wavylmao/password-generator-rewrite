@@ -1,4 +1,4 @@
-# password-generator
+# Password Generator
 
 Password generator built with React and JavaScript. Rewritten version of an older project. Please note, the actual algorithm to generate the password isn't mine. It's from a user named Gumbo on this stack overflow question:
 
@@ -30,18 +30,8 @@ You can now find this app running on http://127.0.0.1:5173/
 
 # Development Roadmap
 
-Fix bug where slider crashes app - Done ✅
-
-Add functionality to generate button - Done ✅
-
-Make password length update dynamically - Done ✅
-
-Fix bug where input values flip when checked and slider is changed - Done ✅
-
 Add strength calculation - In progress ⏳
 
 Add logic to make sure that all parameters for password are fufilled - In progress ⏳
-
-Add responsive layout to different devices - Not started 🛑
 
 Refactor code - Not started 🛑
