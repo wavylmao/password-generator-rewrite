@@ -1,0 +1,34 @@
+h2 {
+  font-family: "Space Mono", monospace;
+  text-align: center;
+}
+
+.password-output {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+  outline: 0;
+  background-color: #3b3b3b;
+  border: none;
+  height: 60px;
+  font-family: "Space Mono", monospace;
+  font-weight: 500;
+  color: #adadad;
+  font-size: 1.5rem;
+  padding-left: 20px;
+  margin-bottom: 20px;
+}
+
+.password-output::placeholder {
+  font-family: "Space Mono", monospace;
+  font-weight: 600;
+  font-size: 1.5rem;
+  vertical-align: center;
+  opacity: 50%;
+  color: #ababab;
+}
+
+label {
+  font-family: "Space Mono", monospace;
+}
